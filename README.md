@@ -9,4 +9,3 @@
 ### 'pptx' file: Final Project Presentation
 ### 'ipynb' file: Project Code and execution
 ### 'py' files: Scripts used for data collection and cleaning
-### 'csv' files: companion file and subset companion file for X-ray images
